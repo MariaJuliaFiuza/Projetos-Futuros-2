@@ -3,7 +3,7 @@
 
 :root{
     --cor-de-fundo: #301d1d;
-    --verde: #16a5be;
+    --azul: #16a5be;
     --branco: #e4dddd;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(26, 13, 163, 0.5);
@@ -81,7 +81,7 @@ body {
 }
 .aba-conteudo-titulo-secundario{
     text-align: center;
-    color: var(--verde);
+    color: var(--azul);
     text-transform: uppercase;
 }
 
@@ -103,7 +103,7 @@ body {
     margin: 0;
 }
 .contador-digito-texto{
-    color: var(--verde);
+    color: var(--azul);
     font-size: 20px;
     margin: 0;
 }
